@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu"
+  },
+  {
     "repository": "android_device_xiaomi_sm8150-common",
     "target_path": "device/xiaomi/sm8150-common"
   }
